@@ -13,7 +13,7 @@ Inicialmente o sistema permite que o funcionário:
 * Informe o preço inicial que o cliente irá pagar para a entrada do veículo no estacionamento.
 <br>
 
-* Informe o preço final que o cliente irá pagar para a retirada do veículo do estacionamento.
+* Informe o preço por hora que será cobrado pela permanéncia do veículo no estacionamento.
 <br>
 
 Em seguida o funcionário informa quais das opções abaixo irá fazer:
