@@ -1,0 +1,14 @@
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\DesafioDioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\DesafioDioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\DesafioDioEstacionamento.AssemblyInfo.cs
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\DesafioDioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\bin\Debug\net8.0\DesafioDioEstacionamento.exe
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\bin\Debug\net8.0\DesafioDioEstacionamento.deps.json
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\bin\Debug\net8.0\DesafioDioEstacionamento.runtimeconfig.json
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\bin\Debug\net8.0\DesafioDioEstacionamento.dll
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\bin\Debug\net8.0\DesafioDioEstacionamento.pdb
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\DesafioDioEstacionamento.dll
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\refint\DesafioDioEstacionamento.dll
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\DesafioDioEstacionamento.pdb
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\DesafioDioEstacionamento.genruntimeconfig.cache
+C:\Users\ingui\Desktop\DesafioDioEstacionamento\obj\Debug\net8.0\ref\DesafioDioEstacionamento.dll

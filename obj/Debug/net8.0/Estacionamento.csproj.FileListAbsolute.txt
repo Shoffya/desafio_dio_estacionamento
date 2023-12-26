@@ -1,0 +1,4 @@
+C:\Users\ingui\Desktop\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingui\Desktop\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\ingui\Desktop\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\ingui\Desktop\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache

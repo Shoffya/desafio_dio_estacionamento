@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ingui\\Desktop\\DesafioDioEstacionamento\\Estacionamentos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ingui\\Desktop\\DesafioDioEstacionamento\\Estacionamentos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ingui\\Desktop\\DesafioDioEstacionamento\\Estacionamentos.csproj",
+        "projectName": "Estacionamentos",
+        "projectPath": "C:\\Users\\ingui\\Desktop\\DesafioDioEstacionamento\\Estacionamentos.csproj",
+        "packagesPath": "C:\\Users\\ingui\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ingui\\Desktop\\DesafioDioEstacionamento\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ingui\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
